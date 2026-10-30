@@ -1,0 +1,13 @@
+{
+  "name": "react-native-css-types-react-native-0-88",
+  "private": true,
+  "dependencies": {
+    "react": "19.3.1",
+    "react-native": "0.88.1",
+    "react-native-css": "0.0.0-nightly.2421ea7"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
