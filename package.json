@@ -4,7 +4,7 @@
   "dependencies": {
     "react": "19.3.1",
     "react-native": "0.88.1",
-    "react-native-css": "0.0.0-nightly.2421ea7"
+    "react-native-css": "0.0.0-nightly.811f357"
   },
   "devDependencies": {
     "@types/react": "19.3.0",
